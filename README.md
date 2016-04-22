@@ -6,8 +6,9 @@
 
 ## [JSConfUY 2014](http://2014.jsconf.uy/)
 
-* [Jeremy Ashkenas](https://twitter.com/jashkenas): Backbone.JS ⇢
-[📽]](https://www.youtube.com/watch?v=UAl_N62gKmM&index=3&list=PLleHIBVx1SeRTGjxTsWrJJHN1Ehx5wHUz)
+* Backbone.JS
+[📽](https://www.youtube.com/watch?v=UAl_N62gKmM&index=3&list=PLleHIBVx1SeRTGjxTsWrJJHN1Ehx5wHUz)
+⇢ [Jeremy Ashkenas](https://twitter.com/jashkenas)
 * WIP
 
 ## [JSConfUY 2015](http://2015.jsconf.uy/)
